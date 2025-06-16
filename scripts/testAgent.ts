@@ -1,6 +1,6 @@
 // scripts/testAgent.ts
 
-import createChatAssistant from '../src/lib/agent.js';
+import createChatAssistant from '../src/lib/agent.ts';
 
 async function testAgent() {
   // Dummy fetchData implementation
